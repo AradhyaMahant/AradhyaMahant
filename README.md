@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aradhyamahant&label=Profile%20views&color=0e75b6&style=flat" alt="aradhyamahant" /> </p>
 
-- 📄 Resume: [https://docs.google.com/document/d/1zzAYpM6ECgIwdnlzrBMiisRDHbowozED/edit?usp=sharing&ouid=114561944652413147185&rtpof=true&sd=true](https://docs.google.com/document/d/1zzAYpM6ECgIwdnlzrBMiisRDHbowozED/edit?usp=sharing&ouid=114561944652413147185&rtpof=true&sd=true)
+- 📄 Resume: https://drive.google.com/file/d/1phl5IsLazIu_80mhvEmbsrBK_fy6nCOD/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
