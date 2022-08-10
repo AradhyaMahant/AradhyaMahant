@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aradhya Prakash Mahant</h1>
-<h3 align="center">I am B.tech(Computer Science) student from UPES Dehradun.Looking forward to an opportunity in an IT organization that would help me to utilize my technical and analytical skills.</h3>
+<h3 align="center">I am a B.tech(Computer Science) student from UPES Dehradun.Looking forward to an opportunity in an IT organization that would help me to utilize my technical and analytical skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aradhyamahant&label=Profile%20views&color=0e75b6&style=flat" alt="aradhyamahant" /> </p>
 
